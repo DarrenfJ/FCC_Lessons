@@ -1,0 +1,19 @@
+CDN links
+
+Adding bootstrap - find FCC info
+
+How to add add:
+
+you can do so via a link: see https://www.bootstrapcdn.com/ or any one of a number of CDN's
+ "A content delivery network (CDN) is a system of distributed servers (network) that deliver webpages and other Web content to a user based on the geographic locations of the user, the origin of the webpage and a content delivery server." from: http://www.webopedia.com/TERM/C/CDN.html
+you can also just download the CSS and use it as a file references in 'locally' in your HTML doc.. you should take a quick boo at this: http://getbootstrap.com/getting-started/
+
+if you are playing around in CodePen they have a settings page where you can quickly add all kinds of libraries and frameworks and they add them for you when you choose them via a drop in the setting page...
+
+here's another CDN that seems to have tons of stuff... https://www.maxcdn.com/
+
+and finally on CDN's (not that there isn't a wealth of knowledge about it on the interweb).. google hosts a bunch of javascript libraries as well: https://developers.google.com/speed/libraries/
+
+https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1LENP_enCA655CA655&ion=1&espv=2&ie=UTF-8#q=best%20cdn%20stackoverflow
+
+http://stackoverflow.com/questions/2145277/what-are-the-advantages-and-disadvantages-of-using-a-content-delivery-network-c
